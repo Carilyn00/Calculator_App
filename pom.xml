@@ -178,11 +178,11 @@
                 <configuration>
                     <container>
                         <containerId>tomcat8x</containerId>
-                        <home>/Users/maping/apache/tomcat</home>
+                        <home>/opt/apache-tomcat-8.5.56/conf</home>
                     </container>
                     <configuration>
                         <type>existing</type>
-                        <home>/Users/maping/apache/tomcat</home>
+                        <home>/opt/apache-tomcat-8.5.56/conf</home>
                     </configuration>
                 </configuration>
             </plugin>
