@@ -178,11 +178,11 @@
                 <configuration>
                     <container>
                         <containerId>tomcat8x</containerId>
-                        <home>/var/lib/jenkins/workspace/Tomcat-test/target/calculator.war</home>
+                        <home>/var/lib/jenkins/workspace/Tomcat-test/target</home>
                     </container>
                     <configuration>
                         <type>existing</type>
-                        <home>/var/lib/jenkins/workspace/Tomcat-test/target/calculator.war</home>
+                        <home>/var/lib/jenkins/workspace/Tomcat-test/target</home>
                     </configuration>
                 </configuration>
             </plugin>
