@@ -177,7 +177,7 @@
                 <version>1.6.9</version>
                 <configuration>
                     <container>
-                        <containerId>apache-tomcat-8.5.56</containerId>
+                        <containerId>Tomcat8x</containerId>
                         <home>/opt/apache-tomcat-8.5.56/</home>
                     </container>
                     <configuration>
