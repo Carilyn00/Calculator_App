@@ -178,11 +178,11 @@
                 <configuration>
                     <container>
                         <containerId>tomcat8x</containerId>
-                        <home>/etc/opt/apache-tomcat-8.5.56/webapps<home>
+                        <home>/etc/opt/apache-tomcat-8.5.56/webapps</home>
                     </container>
                     <configuration>
                         <type>existing</type>
-                        <home>/etc/opt/apache-tomcat-8.5.56/webapps<home>
+                        <home>/etc/opt/apache-tomcat-8.5.56/webapps</home>
                     </configuration>
                 </configuration>
             </plugin>
