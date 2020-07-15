@@ -1,5 +1,3 @@
-FROM tomcat
-MAINTAINER Ma Ping
+FROM tomcat:8-jre8
 
-RUN rm -rf $CATALINA_HOME/webapps/ROOT
-COPY target/calculator.war $CATALINA_HOME/webapps/ROOT.war
+ADD target/calculator.war /usr/local/tomcat/webapps/calculator.war
